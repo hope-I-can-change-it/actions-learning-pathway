@@ -1,7 +1,7 @@
 name: node-build
 on: push
 jobs: 
-  hello-world-job:
+  node-build-job:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
